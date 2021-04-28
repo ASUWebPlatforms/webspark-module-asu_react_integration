@@ -1,6 +1,6 @@
 {
   "name": "asuwebplatforms/webspark-module-asu_react_integration",
-  "description": "ASU Web Standards 2 Footer",
+  "description": "Provide functionality related to  integration of react components",
   "type": "drupal-module",
   "license": "GPL-2.0-or-later",
   "authors": [
